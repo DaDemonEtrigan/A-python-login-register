@@ -9,7 +9,7 @@ import json
 mydict = {}
 print("Put username and password 0 once and the loop will break")
 while True:
-    user = input("username : ")
+    user = input("Username : ")
     passw = input("password : ")
     if user == "0" and passw == "0":
         break
