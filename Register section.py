@@ -7,7 +7,7 @@
 import json
 
 mydict = {}
-print("put username and password 0 once and the loop will break")
+print("Put username and password 0 once and the loop will break")
 while True:
     user = input("username : ")
     passw = input("password : ")
