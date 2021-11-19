@@ -13,8 +13,8 @@ with open('userpass.json', 'r') as file:
 
 flag = False
 while True:
-    username = input("Username : ")
-    password = input("password : ")
+    username = input("Username: \n")
+    password = input("Password: \n")
 
     for key in json_obj:
         if json_obj[key] == password and key == username:
@@ -24,7 +24,7 @@ while True:
             flag = False
 
     if flag:
-        print('welcome')
+        print("Welcome!")
         break
     else:
-        print('login failed, try again')
+        print("Login failed, please try again")
