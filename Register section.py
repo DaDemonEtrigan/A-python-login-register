@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-# dev : BloodHunter
+# register section
+# dev : Captain_Etrigan
 # state : Indev (In development)
 #About : this is the code for putting a username in the json file, its in write mode
 # you can write as much as users with passwords you want it will save but if you do it again the last data will be deleted
