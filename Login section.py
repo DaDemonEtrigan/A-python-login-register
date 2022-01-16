@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-# dev : BloodHunter
+# login section
+# dev : Captain_Etrigan
 # state : Indev
 #About : this is the code for just logging into the user(s) you saved in Register Section.py
 # it will search for every user and their own password
